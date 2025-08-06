@@ -6,6 +6,7 @@
 // @author       Taha Tariq
 // @match        https://*.linkedin.com/messaging/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
